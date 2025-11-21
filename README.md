@@ -25,8 +25,7 @@ This repository provides a fully-working, modernized re-creation of the DeepSign
 ```
 │── pod/                         ← sample POD5 test files (optional, ~100MB each)
 │── pipeline.ipynb               ← main Colab pipeline (feature extraction → HDF5 → training)
-│── model/                       ← DeepSignal-based PyTorch model
-│── results/                     ← metrics, confusion matrices
+│── Technical Documentation      ← Details of the code
 │── README.md                    ← (this file)
 ```
 
